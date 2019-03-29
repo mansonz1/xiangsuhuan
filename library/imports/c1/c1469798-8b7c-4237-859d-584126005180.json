@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "groundtop",
+    "texture": "e73547cc-725e-45f4-8bdc-4b34def8a0f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      384
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      384
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

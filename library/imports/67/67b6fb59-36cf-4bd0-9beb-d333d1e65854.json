@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biue_0008_4",
+    "texture": "901fe184-00e3-4a9f-b014-f900991d993a",
+    "atlas": "",
+    "rect": [
+      0,
+      10,
+      150,
+      170
+    ],
+    "offset": [
+      0,
+      5
+    ],
+    "originalSize": [
+      150,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

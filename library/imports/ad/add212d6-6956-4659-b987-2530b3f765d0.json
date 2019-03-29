@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caise_0003_5",
+    "texture": "b669a871-1686-4ed6-9afc-4fbfe3941118",
+    "atlas": "",
+    "rect": [
+      0,
+      10,
+      150,
+      170
+    ],
+    "offset": [
+      0,
+      5
+    ],
+    "originalSize": [
+      150,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ming",
+    "texture": "a9db9f14-633d-432e-a72d-e49ccb99b6d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      228,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      228,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

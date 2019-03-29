@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jieshu",
+    "texture": "87698ed3-fda0-45ea-b873-017afdff0539",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      740,
+      580
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      740,
+      580
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
